@@ -1,6 +1,7 @@
 # Profile
 <h1 align="center">Debug Security</h1>
 <h3 align="center">A Cyber Security Company</h3>
+<p align="left">Debug Security is a cybersecurity company specializing in Red Team Assessments, Penetration Testing, and Vulnerability Assessments. Secure your digital world with us.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debug-security&label=Profile%20views&color=0e75b6&style=flat" alt="debug-security" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debug-security" alt="debug-security" /></a> </p>
 
@@ -18,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.debugsec.com/blogs](https://www.debugsec.com/blogs)
 
-- 💬 Contact Us <a href="https://www.debugsec.com/contact-us" target="blank" rel="dofollow" style="text-decoration: none;">**Debug Security**</a>
+- 💬 Contact Us <a href="https://www.debugsec.com/contact-us" target="blank" rel="dofollow" style="text-decoration: none">**Debug Security**</a>
 
 - 📫 How to reach me **info@debugsec,com**
 
