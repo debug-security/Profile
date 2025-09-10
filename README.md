@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://www.debugsec.com/blogs](https://www.debugsec.com/blogs)
 
-- 💬 Contact Us <a href="[https://www.debugsec.com/contact-us](https://www.debugsec.com/contact-us)" target="blank">**Cyber Security**</a>
+- 💬 Contact Us <a href="https://www.debugsec.com/contact-us" target="blank">**Debug Security**</a>
 
 - 📫 How to reach me **info@debugsec,com**
 
