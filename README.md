@@ -6,6 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debug-security" alt="debug-security" /></a> </p>
  -->
 <p align="left"> <a href="https://www.debugsec.com/services" target="blank">Debug Security Services:</a></p>
+
 - 🕵️‍♂️ **Red Team Assessments**
 
 - 💻 **Penetration Testing**
@@ -20,23 +21,15 @@
   
 - 📝 **Source Code Review**
 
-- 🔭 I’m currently working on **Red Team Assessments**
+- 👨‍💻 Visit Our Website [https://www.debugsec.com/](https://www.debugsec.com/)
 
-- 🌱 I’m currently learning **Network Security**
-
-- 👯 I’m looking to collaborate on **Vulnerability Assessment**
-
-- 🤝 I’m looking for help with **Penetration Testing**
-
-- 👨‍💻 All of my projects are available at [https://www.debugsec.com/](https://www.debugsec.com/)
-
-- 📝 I regularly write articles on [https://www.debugsec.com/blogs](https://www.debugsec.com/blogs)
+- 📝 You can read our blogs [https://www.debugsec.com/blogs](https://www.debugsec.com/blogs)
 
 - 💬 Contact Us <a href="https://www.debugsec.com/contact-us" target="blank" rel="dofollow" style="text-decoration: none">**Debug Security**</a>
 
 - 📫 How to reach me **info@debugsec,com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://twitter.com/debugsecurities" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debugsecurities" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/debugsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/debugsec" height="30" width="40" /></a>
