@@ -7,11 +7,17 @@
  -->
 <p align="left"> <a href="https://www.debugsec.com/services" target="blank">Debug Security Services:</a></p>
 - 🕵️‍♂️ **Red Team Assessments**
+
 - 💻 **Penetration Testing**
+  
 - 🛡️ **Vulnerability Assessment**
+  
 - 🌐 **Web Application Security**
+  
 - 🌍 **Network Security**
+  
 - 📱 **Mobile Application Security**
+  
 - 📝 **Source Code Review**
 
 - 🔭 I’m currently working on **Red Team Assessments**
