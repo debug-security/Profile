@@ -21,13 +21,15 @@
   
 - 📝 **Source Code Review**
 
+<p align="left"> <a href="https://www.debugsec.com/" target="blank">Company Informations:</a></p>
+
 - 👨‍💻 Visit Our Website [https://www.debugsec.com/](https://www.debugsec.com/)
 
 - 📝 You can read our blogs [https://www.debugsec.com/blogs](https://www.debugsec.com/blogs)
 
 - 💬 Contact Us <a href="https://www.debugsec.com/contact-us" target="blank" rel="dofollow" style="text-decoration: none">**Debug Security**</a>
 
-- 📫 How to reach me **info@debugsec,com**
+- 📫 How to reach me **info@debugsec.com**
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
